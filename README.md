@@ -1,7 +1,4 @@
 # TeleBot - Telegram UserBot
-
-# <p align="left"><a href="http://github.com/arjboy/telebot><\a><a href="https://t.me/paidcoursesfree11></a></p>
-
     
 ## Documentation
 For passionate readers 😂 the documentation can be found [here](https://xditya.gitbook.io/telebot/)
